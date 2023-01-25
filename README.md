@@ -10,7 +10,7 @@
 
 <item>
 <title>[COLOR silver][B] M3GAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B44BA4588C7FEDF2CB46AB00196372827A27C58$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1D9DCDA869835F77C9E82DFC52EC74FEB4EE2DB$nome=DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E75F3301EF81B1A28E4785044C5A564E9A45F531$nome=LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mKOt0XcgYJHI5xKeIY6rfq4Auen.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jTKHoMmaKHv6IlpKDcouusMZ48Z.jpg</fanart>
