@@ -9,6 +9,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] O CUBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6caeb1fa6af527ac7e544e7358189d7cf277054b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7OSTg5V4GkzD0p14whcFRcH4Tes.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de estranhos desperta em um misterioso local em formato de cubo sem saber como ou por que foram parar ali. Não está claro onde é, por que razão eles estão presos ou se há uma saída. Dentre os principais temas abordados no suspense, destacam-se testes de limites de força física e mental, atrelados a situações de tensão, medo e ansiedade. Para resistir ao poderoso sistema do Cubo, eles deverão se unir e usar suas habilidades para evitar os perigos e buscar uma saída do labirinto, enquanto tentam desvendar o motivo de terem sido colocados ali.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] M3GAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1D9DCDA869835F77C9E82DFC52EC74FEB4EE2DB$nome=DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E75F3301EF81B1A28E4785044C5A564E9A45F531$nome=LEGENDADO</link>
