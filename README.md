@@ -33,6 +33,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] CUBO 1997  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA0203EDE05649243F52FB31EC2992CC311F87F8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ffgfJUxCiNm8NKaCQ7Jzsqx8IMs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um policial , um ladrão, uma matemática, uma psicóloga, um arquiteto e um jovem autista são misteriosamente presos em um labirinto de alta tecnologia. Sem comida nem água, eles precisam encontrar um meio de sair do local. Mas precisam também tomar cuidado para não acionar armadilhas letais, que surgem em estranhos cubos.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] M3GAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1D9DCDA869835F77C9E82DFC52EC74FEB4EE2DB$nome=DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E75F3301EF81B1A28E4785044C5A564E9A45F531$nome=LEGENDADO</link>
