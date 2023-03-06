@@ -9,6 +9,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] EXPERIÊNCIA APLHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G7523LIV35MREKF7O2MPM572N3VPACCU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A rotina de uma família comum é ameaçada com a compra de um robô chamado Alpha, um tipo de assistente pessoal que executa as tarefas da casa. Ao ser considerada apenas como um eletrodoméstico, a criatura desenvolve vontades e intenções extremamente perigosas e letais, que colocam a vida de todos em risco.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CUBO ZERO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:393934FA4830E90D18191EB34B278468AB7FA0C0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/87ufWmIQPhm9UvBIrFSR1K9IKXk.jpg</thumbnail>
