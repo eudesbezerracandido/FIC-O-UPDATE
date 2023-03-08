@@ -9,6 +9,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] OS PORTÕES DO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BW6QK6QMUBEWIURRRXBTWVC4LL4VUZNE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/588NLmLxHcUQscpNBoUrQO8SQ9u.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um pequeno vilarejo, uma agente do FBI e um delegado procuram uma mulher desaparecida. Quando seu marido, um fanático religioso, se torna o principal suspeito, descobrirão algo muito mais sinistro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EXPERIÊNCIA APLHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G7523LIV35MREKF7O2MPM572N3VPACCU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg</thumbnail>
