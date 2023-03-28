@@ -1,5 +1,15 @@
 # FIC-O-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] VESPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F869F09EF2384255677C3524469525DBC47D5DB8$nome=VESPER DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faa2b0b52f7674eff5ba36aa9f200a2916ea7c9c$nome=VESPER LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois do colapso do ecossistema terrestre, uma garota de 13 anos lutando para sobreviver com o seu pai paralisado, encontra uma misteriosa mulher com um segredo que força Vesper a usar sua inteligência, força e suas habilidades de biohacking na batalha pela possibilidade de um futuro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AVATAR - O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95F77E0AAAD20BF7FC7F4DE209D6183496E3C824</link>
