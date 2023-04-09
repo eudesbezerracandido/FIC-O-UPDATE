@@ -1,6 +1,16 @@
 # FIC-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] GEMINI - PLANETA SOMBRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02F7CB9559E45C26307DEA3E25BC4EF30CFC0810</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um thriller de ficção científica sobre uma missão espacial enviada para terraformar um planeta distante. No entanto, a missão encontra algo desconhecido que tem seu próprio plano para o planeta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VESPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F869F09EF2384255677C3524469525DBC47D5DB8$nome=VESPER DUBLADO NÃO OFICIAL</link>
