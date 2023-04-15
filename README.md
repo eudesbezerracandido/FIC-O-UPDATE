@@ -22,7 +22,7 @@
 
 <item>
 <title>[COLOR silver][B] AVATAR - O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95F77E0AAAD20BF7FC7F4DE209D6183496E3C824$nome=SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fec56aa2a72ed78603804d5d576e3f264a055f66$nome=SERVIDOR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95F77E0AAAD20BF7FC7F4DE209D6183496E3C824$nome=SERVIDOR 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hPXeJABvO4FQzbmpvs4zgIWpkrG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
