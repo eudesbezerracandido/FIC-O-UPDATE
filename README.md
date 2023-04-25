@@ -1,7 +1,12 @@
 # FIC-O-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] O QUARTO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46aaa9a67acb400bd84ca81df1fb45a0bd0ac7d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iEOAmwH3T3Hrfc8pWtlcE47VJpr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Elizabeth (Abbey Lee) é uma mulher recém-casada com um cientista brilhante, Henry (Ciaran Hinds). Ao chegar na casa do marido ela percebe que os funcionários a tratam diferente e não consegue deixar de pensar que algo não está certo. Henry explica que agora tudo ali pertence a ela, exceto um quarto que está sempre trancado. Quando ele viaja a negócios, Elizabeth decide investigar o misterioso quarto, e descobre que seu marido pode não ser quem ela pensa que é.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GEMINI - PLANETA SOMBRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
