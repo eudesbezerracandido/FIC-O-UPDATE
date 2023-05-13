@@ -1,6 +1,16 @@
 # FIC-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] LUNAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa89571b67eefe941954669d4889a132d16fb667</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kPsGRylSifOZlDx0LIwppb08fel.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O turno de três anos do astronauta Sam Bell em uma mina lunar está finalmente terminando e ele está ansioso para seu reencontro com sua esposa e sua filha. De repente, a saúde de Sam dá uma guinada para pior. Ele sofre dores de cabeça e alucinações e quase tem um acidente fatal. Ele conhece o que parece ser uma versão mais jovem de si mesmo, possivelmente um clone. Sam precisa resolver o mistério antes que a tripulação da empresa chegue.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A CRATERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a2a9488550a90a9ecd825fc76aa28b23bb8ee5</link>
