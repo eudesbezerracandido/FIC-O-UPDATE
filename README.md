@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] SAIDA PROIBIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7c96967bfef6406fc747c8f331918ba75c1296</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s58F5VUMZYv7bbNX5IadOYsR8Oz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> É dia de Natal e a família Milgram encontra uma misteriosa substância negra ao redor de sua casa. Claramente algo está acontecendo bem à sua porta | Mas o que exatamente está acontecendo? :-seria um acidente industrial, um ataque terrorista, uma guerra nuclear? Apavorados, eles ligam a TV para obter qualquer informação. Na tela uma mensagem brilha sinistramente: ‘Fique dentro de casa e aguarde novas instruções’. Como a televisão exerce uma “atração” cada vez mais sinistra, a paranóia aumenta e se transforma em uma sangrenta carnificina.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LUNAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
