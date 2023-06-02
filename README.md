@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MOSTROS HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079683112ae408ba5f5b52e4656b4d9721361094</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma empresa de robótica que está a tentar ganhar um contrato militar lucrativo une-se a um agente corrupto da CIA para realizar um teste ilegal no terreno. Colocam quatro protótipos de robôs armados num campo suspeito de fabrico de drogas no Triângulo Dourado. Supunham que estavam a matar traficantes de drogas dos quais ninguém sentiria falta. Seis médicos numa missão humanitária testemunham o massacre brutal e tornam-se então nos principais alvos.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] SAIDA PROIBIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7c96967bfef6406fc747c8f331918ba75c1296</link>
