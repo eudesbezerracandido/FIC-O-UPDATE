@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] MULHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f422233f72d6ffc6832826b89ac26da9e760576d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/951oQ2gBIK3jjp02Dqq3fxm4qYs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a humana artificial Meredith é designada como companheira do viúvo William, ela é projetada para se comportar como sua falecida esposa. Mas na luta para acabar com a exploração de IA, uma organização tenta sabotar sua programação.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MOSTROS HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
