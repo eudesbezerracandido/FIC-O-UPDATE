@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DEIXADOS PARA TRÁS: O INICIO DO FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3aad46b776b2321964376c64df244b46f9596b4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/944LdA7uTyUO5vYc3hvqv5aRFow.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seis meses atrás, milhões de pessoas desapareceram sem deixar vestígios e o caos tomou conta do mundo. Muitos acreditam que o governo está por trás de tudo, outros defendem que a Bíblia já havia previsto os desaparecimentos há milhares de anos. Desesperado por respostas em um mundo cheio de medo e mentiras, o jornalista Buck Williams decide ir até o fim em busca da verdade e de salvação.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MULHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f422233f72d6ffc6832826b89ac26da9e760576d</link>
