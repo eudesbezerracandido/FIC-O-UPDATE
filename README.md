@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A CRIATURA DO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d06817ca5edf81da1d5f3fa3745bba92139b2323</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/efzcG7seLhy6AmoVEHjhgKIpBK5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma nave espacial alienígena cai no meio do deserto australiano e libera uma criatura parasita que ataca o cérebro das pessoas, deixando-as desorientadas e violentas. Joanne Sharp é uma sargento determinada a salvar os habitantes da cidade e impedir que o vírus se espalhe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DEIXADOS PARA TRÁS: O INICIO DO FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3aad46b776b2321964376c64df244b46f9596b4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/944LdA7uTyUO5vYc3hvqv5aRFow.jpg</thumbnail>
