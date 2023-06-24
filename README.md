@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MOSTROS DO HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079683112ae408ba5f5b52e4656b4d9721361094</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sENLgxCVtZqCMQIeuLep8FmdInr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma empresa de robótica que tenta ganhar um lucrativo contrato militar se alia a um agente corrupto da CIA para conduzir um teste ilegal de campo ao vivo. Eles lançam quatro protótipos de robôs armados em um campo suspeito de fabricação de drogas no Triângulo Dourado, presumindo que estariam matando traficantes de drogas que ninguém perderia. Seis médicos em uma missão humanitária testemunham o massacre brutal e se tornam os principais alvos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CRIATURA DO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d06817ca5edf81da1d5f3fa3745bba92139b2323</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/efzcG7seLhy6AmoVEHjhgKIpBK5.jpg</thumbnail>
