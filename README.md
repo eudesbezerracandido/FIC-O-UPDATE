@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VISÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d01dbee0a15f1c44bb4ca1fc789cd6f7c3ece4b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dvVpwmxA0C1lJzhvGZ7idJD0LXA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem afligido pela clarividência tenta mudar seu destino, quando uma série de acontecimentos leva a uma visão de seu próprio assassinato iminente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MOSTROS DO HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079683112ae408ba5f5b52e4656b4d9721361094</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sENLgxCVtZqCMQIeuLep8FmdInr.jpg</thumbnail>
