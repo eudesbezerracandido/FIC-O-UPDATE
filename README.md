@@ -1,7 +1,13 @@
 # FIC-O-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] PODER SEM LIMITES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a65fbccf020ac7cdad427f0e45a83533c6e8739</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d66KHiNTQU020qXJn3H5FyzXkDa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após ingerir uma substância misteriosa, três amigos são surpreendidos ao ganhar superpoderes. De início eles os usam para brincar com conhecidos, mas aos poucos ganham a sensação de impunidade e passam a realizar feitos maiores. Sentindo-se invulneráveis, eles ultrapassam qualquer limite quando uma pessoa é morta.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VISÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
