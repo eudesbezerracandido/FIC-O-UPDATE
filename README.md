@@ -114,7 +114,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] VESPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] VESPER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F869F09EF2384255677C3524469525DBC47D5DB8$nome=VESPER DUBLADO NÃO OFICIAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faa2b0b52f7674eff5ba36aa9f200a2916ea7c9c$nome=VESPER LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
