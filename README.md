@@ -1,6 +1,15 @@
 # FIC-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] UNDERGODS - CONTOS DO SUBMUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:053f56d01ef3950bb9a2cd157c4a5f7b931af05f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/puVUV2UWmuN6a4E0givje2q1HRu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma viagem sobrenatural através de uma Europa em declínio – uma coleção de contos de fantasia sombriamente humorísticos sobre personagens malfadados e fortuna condenada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PODER SEM LIMITES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a65fbccf020ac7cdad427f0e45a83533c6e8739</link>
