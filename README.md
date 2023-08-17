@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PROJETO ITHACA: DESTRUIÇÃO ALIENIGÊNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d29c38d01a477ae3bac81e1d4f8d30400fffc1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t6v8i1ND88pVztcftWdC2KFvFNa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de pessoas desconhecidas acorda a bordo de uma espaçonave alienígena, que produz energia através de suas emoções. Dentre essas pessoas está Sera, uma jovem metade humana e metade alienígena, enviada pelo exército americano em um plano secreto conhecido como Projeto Ithaca com o objetivo de destruir a nave.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UNDERGODS - CONTOS DO SUBMUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:053f56d01ef3950bb9a2cd157c4a5f7b931af05f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/puVUV2UWmuN6a4E0givje2q1HRu.jpg</thumbnail>
