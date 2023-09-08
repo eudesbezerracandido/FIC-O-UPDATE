@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PROJETO WETWARE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd278866e722ed5acaa2529b0100373f0a6d3a3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7NhzMMDyiHKOoOnEe4c8DYhu7Il.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado no romance homônimo de Craig Nova. Num futuro próximo, os trabalhos difíceis e tediosos são feitos pelos menos afortunados, que se oferecem para sofrer modificações genéticas que os tornam ideais para tais profissões. O programador genético Hal Briggs faz diversos experimentos em Jack e, especialmente, Kay, com quem ele desenvolve uma relação perigosa. Mas as duas cobaias acabam escapando, e agora Briggs terá que rastrear seus protótipos fugitivos antes que eles descubram segredos que podem colocar em risco toda a operação.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PROJETO ITHACA: DESTRUIÇÃO ALIENIGÊNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d29c38d01a477ae3bac81e1d4f8d30400fffc1</link>
