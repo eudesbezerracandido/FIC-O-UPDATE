@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR silver][B] VESPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] VESPER DUBLADO (NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F869F09EF2384255677C3524469525DBC47D5DB8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
