@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VESPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F869F09EF2384255677C3524469525DBC47D5DB8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois do colapso do ecossistema terrestre, uma garota de 13 anos lutando para sobreviver com o seu pai paralisado, encontra uma misteriosa mulher com um segredo que força Vesper a usar sua inteligência, força e suas habilidades de biohacking na batalha pela possibilidade de um futuro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PROJETO WETWARE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd278866e722ed5acaa2529b0100373f0a6d3a3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7NhzMMDyiHKOoOnEe4c8DYhu7Il.jpg</thumbnail>
