@@ -1,7 +1,13 @@
 # FIC-O-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] O VIAJANTE DO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e8b8eaac5d9535e76308918cb1e3e86ebaabd4d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b6SZ2fme18X5EPj7zN6bxeNHjEP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um viajante do tempo e seu companheiro de inteligência artificial. Norman fica preso e isolado no passado, colocando em risco a vida no passado e no futuro. Ele deve inventar um caminho de volta ao futuro antes que o mundo entre em colapso.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VESPER DUBLADO (NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
