@@ -10,16 +10,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AVATAR - O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fec56aa2a72ed78603804d5d576e3f264a055f66$nome=SERVIDOR 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95F77E0AAAD20BF7FC7F4DE209D6183496E3C824$nome=SERVIDOR 2</link>
-link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hPXeJABvO4FQzbmpvs4zgIWpkrG.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Doze anos depois de explorar Pandora e se juntar aos Navi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. No entanto, o retorno de um antigo conhecido em busca de vingança faz com que seja necessária uma brusca mudança para o casal e seus filhos, agora que a guerra está declarada.</info>
-</item> 
-
-<item>
 <title>[COLOR silver][B] VESPER DUBLADO (NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F869F09EF2384255677C3524469525DBC47D5DB8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
