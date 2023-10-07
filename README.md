@@ -1,6 +1,16 @@
 # FIC-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] ATTRACTION 2: A INVASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a5b9aff3c0b43caadbff4b12afdbb8f0521c72d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um objeto voador não identificado que vem do espaço muda a visão da humanidade sobre a vida em outros planetas. Quando os alienígenas desembarcam na terra, a destruição é documentada pelos moradores de um bairro residencial de Moscou, que precisam sobreviver enquanto começam a questionar as motivações dos alienígenas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O VIAJANTE DO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e8b8eaac5d9535e76308918cb1e3e86ebaabd4d</link>
