@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A CASA DOS ESPIRITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c64ecee24eab7d3c0f28f8311b5ead3cb8db8af9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bOL6qexGlUT5PLQhaPVgrhtp1kj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A terrível história de uma família que experimentou a maior possessão demoníaca, depois de se mudar para uma casa atormentada por espíritos maliciosos. Uma família se muda para uma antiga casa possuída por uma presença sobrenatural. Apesar da presença se mostrar bondosa no começo, eles vivenciam uma assustadora possessão demoníaca após a filha mais velha brincar com um tabuleiro ouija.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SKYLINE-ALÉM DO HORIZONTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13035f15f099d748c3c4ef87f23f58dbfbe98de0</link>
