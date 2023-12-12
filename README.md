@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ALIEN COVENANT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RYKYWIB2QECSVA4JA76LSWHLG7CTOY6H</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dNJqsL3ekBPUXsSDu6oABGZkJMM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A CASA DOS ESPIRITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
