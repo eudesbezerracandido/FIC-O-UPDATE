@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O FRIO DO UNIVERSO - ARCT BLAST ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:902ccac2d3e03a552db63c3dc5ad9a39fd71ed57</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/54JrDQq3ISxwTAHz0yfbFNhBC7f.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando um eclipse solar manda uma enorme onda de frio para a Terra, da inicio a uma catastrófica série de eventos que pode reiniciar a era do gelo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ALIEN COVENANT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RYKYWIB2QECSVA4JA76LSWHLG7CTOY6H</link>
