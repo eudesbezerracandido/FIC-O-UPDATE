@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] 12 HORAS PARA O FIM DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbf27b1f9e6100665e3d2dba5623e935c6165eda</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gurQloozD4oBjjCBhqm3KPjxWxL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um pai que trabalha em uma estação espacial precisa salvar sua filha de 15 anos após uma devastadora chuva de meteoros atingir a Terra. Usando apenas telefones e câmeras via satélite, ele embarca numa jornada emocionante para resgatá-la.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OS PORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
