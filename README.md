@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] OS PORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C04919B24C639BEAD2C156698FC10C45F410757C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/inOEAwyIveHVrg7rd3uu4bt7vDO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Sem aviso, milhões de misteriosas "portas" alienígenas aparecem de repente ao redor do globo. Com pressa para determinar o motivo de sua chegada, a humanidade deve trabalhar em conjunto para compreender o propósito dessas anomalias cósmicas. Incidências bizarras que ocorrem ao redor das portas sensíveis levam a humanidade a questionar sua própria existência e uma realidade alterada enquanto tentam entrar nelas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O FRIO DO UNIVERSO - ARCT BLAST ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:902ccac2d3e03a552db63c3dc5ad9a39fd71ed57</link>
