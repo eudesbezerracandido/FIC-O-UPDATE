@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] 57 SEGUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJJ2JPF5DBU35Y6LFH4AIS4K3FPY7NZX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kRLNtJ0dWUHhNt20NijeWhnLJ5E.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando um blogueiro de tecnologia consegue uma entrevista com um guru da tecnologia e interrompe um ataque contra ele, ele encontra um anel misterioso que o leva de volta 57 segundos no passado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 12 HORAS PARA O FIM DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbf27b1f9e6100665e3d2dba5623e935c6165eda</link>
