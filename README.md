@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6271D4C624AF816ABEA5D87BBA3758FEF34725D9</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cizUtoy1wRLhqnFu9EnI5TlQGFM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A Casa Torrent – Um casal retira-se para uma casa luxuosa, de alta tecnologia e totalmente automatizada em uma ilha remota. O sistema de inteligência artificial da casa, inesperadamente, vira-se contra eles.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 57 SEGUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
