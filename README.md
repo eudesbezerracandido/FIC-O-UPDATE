@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O ENIGMA DE OUTRO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UGSHXMWDYUESOBH6LVRWMV5WV6V7Q7PM</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wCFQv7cUZUVoW9w0Tb6QSC69lSa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O mestre do terror John Carpenter usa de efeitos especiais e muito suspensa nesta versão arrepiante do clássico O Monstro do Ático. No verão de 1982, um time de doze pesquisadores trabalha numa remota estação na Antártica e descobre um ser alienígena submerso na neve há mais de 100.000 anos. Descongelada, a criatura mutante possui a habilidade de duplicar e se transformar em seu hospedeiro, matando-o em seguida e espalhando o terror. O problema é descobrir quem é ser humano e quem é o possível alienígena.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6271D4C624AF816ABEA5D87BBA3758FEF34725D9</link>
