@@ -6,6 +6,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] CODE: 8 RENEGADOS 2019 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2344751641681AE54C6152ED3FA03D099387FCE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yOj7bYYyMMqiqgh7Bu7qxLwtbsz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Num mundo onde pessoas com habilidades “especiais” vivem na pobreza, Conner Reed é um jovem poderoso que está a lutar para pagar pelo tratamento médico da sua mãe doente. Para ganhar dinheiro, ele entra num mundo criminoso e lucrativo, liderado por Garrett, que trabalha para um traficante de drogas</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ENIGMA DE OUTRO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UGSHXMWDYUESOBH6LVRWMV5WV6V7Q7PM</link>
