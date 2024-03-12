@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PROJETO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d1a131a088bf71e3718abc1f81d7fb8d950723</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5OnTlcjY4e0WhWqTOuGFYXmkFKJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A trama começa em uma cidade industrial em algum lugar dos EUA. Um local repleto de antenas de telecomunicação, uma Universidade, cafés modernos e grandes armazéns abandonados. Esta cidade parece que parou no tempo entre os anos 1970 e 80. Assim, a modernidade, as grandes marcas e as empresas poderosas de tecnologia surgem entre os prédios envelhecidos. Em algum dos armazéns abandonados, três jovens programadores exploram o que foi esquecido por ali e encontram uma estranha tecnologia. Eles esbarram em um código misterioso capaz de identificar presenças paranormais. Quando eles adaptam isso para um aplicativo de smartphone, o trio cruza a linha entre a vida e a morte.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A PRESENÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fdaee2b8c00a5746c3d5527b43adf80d40ba2de</link>
