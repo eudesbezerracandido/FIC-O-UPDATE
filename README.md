@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PROJETO ITHACA-DESTRUIÇÃO ALIENIGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d29c38d01a477ae3bac81e1d4f8d30400fffc1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/uDUeDgVI2g1uLd3GRXtyxocP9z.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um grupo de estranhos acorda a bordo de uma espaçonave alienígena.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PROJETO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
