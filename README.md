@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A PRESENÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fdaee2b8c00a5746c3d5527b43adf80d40ba2de</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/oLHF1FezbFzI8JjCGrQ8QynajUj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um jovem cientista trabalha para a NASA, ele é abduzido por extraterrestres. Quando ninguém acredita em sua história, ele fica obcecado em encontrar provas que o levem a uma jornada de descoberta.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CODE: 8 RENEGADOS 2019 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
