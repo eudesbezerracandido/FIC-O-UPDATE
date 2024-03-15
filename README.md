@@ -6,6 +6,14 @@
 
 
 <item>
+<title>[COLOR silver][B] GAROTA MISTÉRIOSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab0f9ff82f70ed747883512a40a80ee9ba71f185</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9b628PfbxwthMNYDdayNnB4mKnV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Por muitos anos o governo realizou pesquisas secretas envolvendo fenômenos paranormais. Mas a descoberta de uma garota com habilidades psíquicas, dá início a uma violenta corrida entre diversas organizações internacionais para encontrá-la e descobrir sua verdadeira identidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PROJETO ITHACA-DESTRUIÇÃO ALIENIGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d29c38d01a477ae3bac81e1d4f8d30400fffc1</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/uDUeDgVI2g1uLd3GRXtyxocP9z.jpg</thumbnail>
