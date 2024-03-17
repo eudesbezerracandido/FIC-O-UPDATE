@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O CÉU DA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0c24a7b5ab652b0b35f0607e6bc179f3b4ed205</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kgWWLoRyWvE5s6rrKgAIf2a0pni.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A saga de Augustine (George Clooney), um cientista solitário no Ártico, que corre para impedir Sully (Felicity Jones) e seus colegas astronautas de voltarem para casa em meio a uma misteriosa catástrofe global.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GAROTA MISTÉRIOSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
