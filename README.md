@@ -3,6 +3,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] EXPERIMENTO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58241BC253EC8FB9320B6CF5E24A97270B322308</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yE2sZLLgTAxqsCyYp8glZRC4pZn.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Sarah, uma jovem lutadora que mora no Brooklyn, concorda em ser voluntária como cobaia experimental para uma empresa farmacêutica chamada Dynamic Health Cure e receber o nanochip LEXX. Sarah espera que o dinheiro recebido por sua participação resolva seus problemas financeiros e a ajude a cuidar de sua mãe que tem Alzheimer. Um nanochip é implantado em seu córtex cerebral. Ele é projetado com tecnologia de inteligência artificial para assumir o controle do corpo no início de qualquer doença ou enfermidade. Quando o implante se torna sinistro e a ordena a cometer crimes, Sarah mergulha em uma espiral assassina com apenas uma escolha: viver ou morrer.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CÉU DA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0c24a7b5ab652b0b35f0607e6bc179f3b4ed205</link>
