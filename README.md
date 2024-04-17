@@ -9,7 +9,7 @@
 
 <item>
 <title>[COLOR silver][B] A BEIRA DA EXTINÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80c33782d190fa346d948d32a29b981c93aa0b0</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/p0ui8pWEhARQyFK8XkZ0azf1qSl.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>O desastre se desenrola quando um meteoro atinge uma pequena cidade, tornando o ambiente inabitável e matando tudo ao redor. A exobióloga Lauren Stone é chamada para encontrar respostas para o evento sobrenatural. À medida que ela começa a descobrir a verdade, um perigo iminente desperta e torna-se uma corrida contra o tempo para salvar a humanidade.</info>
