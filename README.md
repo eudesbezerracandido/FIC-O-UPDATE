@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A BEIRA DA EXTINÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/p0ui8pWEhARQyFK8XkZ0azf1qSl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O desastre se desenrola quando um meteoro atinge uma pequena cidade, tornando o ambiente inabitável e matando tudo ao redor. A exobióloga Lauren Stone é chamada para encontrar respostas para o evento sobrenatural. À medida que ela começa a descobrir a verdade, um perigo iminente desperta e torna-se uma corrida contra o tempo para salvar a humanidade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] EXPERIMENTO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58241BC253EC8FB9320B6CF5E24A97270B322308</link>
