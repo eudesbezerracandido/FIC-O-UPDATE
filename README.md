@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O NEVOEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:489fbb3626864339c37a8daa040ea2c40f915939</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nhK5Np3A9wBXAYzropa298TylCa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>David Drayton e o seu pequeno filho Billy estão entre o largo grupo de habitantes fechados na mercearia local por uma neblina estranha, do outro mundo. David é o primeiro a perceber que há coisas escondidas na neblina… coisas horríveis, mortíferas… criaturas que não são deste mundo. A sobrevivência depende de todos dentro da loja puxarem para o mesmo lado… mas será isso possível, atendendo à natureza humana? À medida que a razão se perde, face ao medo e ao pânico, David começa a duvidar o que o aterroriza mais: os monstros na neblina – ou os que estão no interior da loja, a raça humana, as pessoas que até agora foram os seus amigos e vizinhos?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A BEIRA DA EXTINÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
