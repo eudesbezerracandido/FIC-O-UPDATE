@@ -5,6 +5,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] MUTAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:def8592abfd0c0b529138ea497a579dceb28ebab</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mb8OE9psIQeQbyHA6FqjdW2Rdnt.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em Nova York uma epidemia disseminada por baratas mata cerca de mil crianças, sendo que nada consegue erradicar a doença. Susan Tyler (Mira Sorvino), uma cientista que recebe a ajuda do marido, cria a "Geração Judas", uma mutação genética que, se colocada junto a outras baratas, elimina a praga. Após 3 anos Susan constata que as baratas modificadas, que deveriam durar apenas uma geração, continuam a reproduzir-se, são do tamanho de um ser humano e tornaram-se basicamente carnívoras. Assim, acompanhada de um pequeno grupo, ela desce aos subterrâneos da cidade e tenta deter os gigantescos insetos, antes que criem colónias por toda a metrópole.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O NEVOEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:489fbb3626864339c37a8daa040ea2c40f915939</link>
