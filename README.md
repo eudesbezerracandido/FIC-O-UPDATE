@@ -8,6 +8,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CONTROL: O PODER DA MENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ef8ac4374b223dd926af9e7651cefc28fd9c3ea</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/l9oQNjCMXOQcniii7WOndldyk0R.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma mulher é aprisionada por uma misteriosa organização com a intenção de testar suas habilidades psíquicas latentes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MUTAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:def8592abfd0c0b529138ea497a579dceb28ebab</link>
